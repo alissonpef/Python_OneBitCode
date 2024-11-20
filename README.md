@@ -48,7 +48,7 @@ Este repositório reúne materiais e anotações do curso **Python Developer** o
 
 ## 📫 **Contato**  
 Dúvidas ou sugestões? Entre em contato:  
-- **One Bit Code:** [Site Oficial](https://onebitcode.com).  
-- **Autor do Repositório:** [Seu Nome](mailto:alissonpef@gmail.com).  
+- **OneBitCode:** [Site Oficial](https://onebitcode.com).  
+- **Autor do Repositório:** [Alisson](mailto:alissonpef@gmail.com).  
 
 Aproveite sua jornada como desenvolvedor Python! 🐍✨
