@@ -43,7 +43,8 @@ Este repositório reúne materiais e anotações do curso **Python Developer** o
 ---
 
 ## 📂 **Estrutura do Repositório**  
-- **/:** Notas e exercícios de introdução à linguagem.  
+- **/:** Notas e exercícios de introdução à linguagem.
+
 ---
 
 ## 📫 **Contato**  
