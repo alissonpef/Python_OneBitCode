@@ -1,49 +1,75 @@
-# Python Developer Program - OneBitCode
+# Formação em Python - OneBitCode
 
-Este repositório reúne materiais e anotações do curso **Python Developer** oferecido pela **OneBitCode**. O programa é uma imersão completa em Python, cobrindo desde os fundamentos até aplicações avançadas em áreas como **desenvolvimento web**, **análise de dados**, e **automação de processos**.
+Este repositório reúne materiais e anotações do curso **Python Developer** oferecido pela **OneBitCode**. A formação é uma imersão completa em Python, abrangendo desde os fundamentos até aplicações avançadas em áreas como **desenvolvimento web**, **análise de dados**, e **automação de processos**.
 
 ---
 
-## 🎯 **Objetivos do Curso**  
+## 🎯 **Objetivos da Formação**  
 - **Dominar Python:** Aprender desde os conceitos básicos da linguagem até técnicas avançadas.  
 - **Projetos Práticos:** Desenvolver aplicações reais, como assistentes virtuais, sistemas de visualização de dados e automações.  
 - **Preparação Profissional:** Capacitar o aluno para trabalhar em áreas de alta demanda, como análise de dados, web development e automações.
 
 ---
 
-## 📚 **Conteúdo do Curso**  
-### 1. **Fundamentos do Python**  
-- Variáveis, estruturas de dados e loops.  
-- Manipulação de arquivos e tratamento de exceções.  
+## 📚 **Conteúdo da Formação**  
+### 1. **Fundamentos (Python)**  
+- **Seções:** 8  
+- **Total de Aulas:** 222  
+- **Duração Total:** 33 horas e 10 minutos  
+- **Descrição:**  
+  - Introdução ao Python  
+  - Módulos e PIP  
+  - Programação Orientada a Objetos (POO)  
+  - Manipulação de Arquivos  
+  - Bancos de Dados SQL  
+  - Integração com Git e GitHub  
 
-### 2. **Desenvolvimento Web**  
-- Frameworks: **Django**, **FastAPI**, **Flask**.  
-- Criação de APIs RESTful e integração com frontend.  
+### 2. **Automações (Python)**  
+- **Seções:** 5  
+- **Total de Aulas:** 128  
+- **Duração Total:** 15 horas e 49 minutos  
+- **Descrição:**  
+  - Automação de Tarefas  
+  - Web Scraping e APIs  
+  - Automação com Selenium  
+  - Automação com Aplicações IA  
+  - Criação de Assistentes Virtuais  
 
-### 3. **Análise de Dados**  
-- Uso de **Pandas** e **Matplotlib** para manipulação e visualização de dados.  
-- Projetos focados em análise estatística e automação de relatórios.  
+### 3. **Análise de Dados (Python)**  
+- **Seções:** 4  
+- **Total de Aulas:** 80  
+- **Duração Total:** 7 horas e 30 minutos  
+- **Descrição:**  
+  - MongoDB  
+  - Manipulação de Dados com Pandas  
+  - Visualização de Dados  
+  - Aplicações com Streamlit  
 
-### 4. **Automação e Web Scraping**  
-- Scripts automatizados para tarefas repetitivas.  
-- Extração de dados utilizando bibliotecas como **BeautifulSoup** e **Selenium**.  
+### 4. **Web (Python)**  
+- **Seções:** 3  
+- **Total de Aulas:** 98  
+- **Duração Total:** 10 horas e 49 minutos  
+- **Descrição:**  
+  - Fundamentos do Flask  
+  - Fundamentos do FastAPI  
+  - Fundamentos do Django
 
-### 5. **Trabalho com Bancos de Dados**  
-- Integração com **MongoDB** e bancos relacionais.  
-- Consultas SQL e gerenciamento de dados com Python.  
+### 5. **Projetos (Python)**  
+- **Seções:** 1  
+- **Total de Aulas:** 9  
+- **Duração Total:** 1 hora e 26 minutos  
+- **Descrição:**  
+  - Criação de um Micro SAAS como Projeto Prático  
 
 ---
 
 ## 🛠️ **Tecnologias Utilizadas**  
 - **Linguagem:** Python 3.  
 - **Frameworks:** Django, Flask, FastAPI.  
-- **Bibliotecas:** Pandas, Matplotlib, BeautifulSoup, Selenium.  
+- **Bibliotecas:** Pandas, Matplotlib, BeautifulSoup, Selenium, Streamlit.  
 - **Banco de Dados:** MongoDB, SQL.  
-
----
-
-## 📂 **Estrutura do Repositório**  
-- **/:** Notas e exercícios de introdução à linguagem.
+- **Ferramentas:** Git, GitHub.  
+- **Automação:** Selenium, APIs, IA.
 
 ---
 
