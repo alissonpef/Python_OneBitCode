@@ -1,11 +1,5 @@
 def invert(name):
-    fullName = ""
-    aux = ""
-    for i in range(len(name)):
-        aux = name[-1]
-        name = name[:-1]
-        fullName += aux
-    print(f"A string invertida ficou: {fullName}")
+    print(f"A string invertida ficou: {name[::-1]}")
 
 def even(name):
     print(f"As letras com índice par ficaram: {name[::2]}")
