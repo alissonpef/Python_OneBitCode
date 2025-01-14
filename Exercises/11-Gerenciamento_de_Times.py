@@ -12,8 +12,7 @@ Ele deve atender aos seguintes requisitos:
 """
 
 times = {}
-choice = -1
-
+done = False
 
 def newTime():
     name = input("Digite o nome do time: ")
@@ -59,13 +58,17 @@ def removePlayer():
         print("Índice inválido! Não há time com esse índice.")
 
 
-while choice != 0:
-    choice = int(
-        input(
-            "\nDigite a opção desejada: \n1 - Listar os times. \n2 - Adicionar um time. \n3 - Remover um time."
-            "\n4 - Adicionar um jogador. \n5 - Remover um jogador. \n6 - Listar jogadores. \n0 - Sair!\n> "
-        )
-    )
+while not done:
+    print("O que você deseja fazer?")
+    print("1. Adicionar um time")
+    print("2. Remover um time")
+    print("3. Listar times")
+    print("4. Adicionar jogador em um time")
+    print("5. Remover jogador em um time")
+    print("6. Listar jogadores de um time")
+    print("0. Sair")
+    choice = int(input(">. "))
+    
     if choice == 1:
         if len(times) == 0:
             print("Não há times cadastrados!")
@@ -93,6 +96,7 @@ while choice != 0:
         else:
             print("Índice inválido! Não há time com esse índice.")
     elif choice == 0:
+        done = True
         print("Encerrando o programa!")
     else:
         print("Opção inválida!")
