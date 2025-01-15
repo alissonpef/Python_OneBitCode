@@ -7,7 +7,7 @@ e que possua as seguintes funcionalidades:
 3. Retornar apenas letras com índice ímpar.
 """
 
-from strings import invert, even, odd
+from Exercises.strings import invert, even, odd
 
 aux = input("Digite uma string: ")  
 print("Escolha o que fazer: \n1 - Inverter uma string de trás pra frente.\n2 - Retornar apenas letras com índice par."
