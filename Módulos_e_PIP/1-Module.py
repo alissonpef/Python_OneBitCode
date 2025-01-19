@@ -1,5 +1,5 @@
-import calc
-from calc import sum 
+import Módulos_e_PIP.calc as calc
+from Módulos_e_PIP.calc import sum 
 
 print(calc.sum(10,2))
 print(sum(10,2)) # I don't have to declare it because of "from".
