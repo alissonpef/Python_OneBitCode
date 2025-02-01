@@ -1,6 +1,6 @@
 class Movie:
     # Com o Construtor, podemos criar o bojeto direto na chamada dele, sem ter que fazer Classe.atributo = ...
-    def __init__(self, name, yearLaunch, includedPlan, note, durationMinutes):
+    def __init__(self, name, yearLaunch, includedPlan, note, durationMinutes): # Passo os parametros que eu vou passar a ele depois
         self.name = name
         self.yearLaunch = yearLaunch
         self.includedPlan = includedPlan

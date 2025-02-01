@@ -13,7 +13,7 @@ class Movie:
     
     def technical_sheet(self):
         print("-----Dados do Filme-----")
-        print(f"Plataforma: {Movie.plataform}")
+        print(f"Plataforma: {Movie.plataform}") # Varívavel da Classe (Movie)
         print(f"Nome Filme: {self.name}")
         print(f"Ano Lançamento: {self.yearLaunch}")
         print(f"Está no plano? {self.includedPlan}")
@@ -37,8 +37,7 @@ movie.evaluate(9.0)
 movie.technical_sheet()
 movie.average()
 
-# Modificando plataforma
-Movie.plataform = "OneBitCode Pro"
+Movie.plataform = "OneBitCode Pro" # Modificando plataforma
 
 movie2.evaluate(10.0)
 movie2.evaluate(9.5)
