@@ -32,14 +32,9 @@ Especificações do Programa:
 
 3. Criar a classe `ContaCorrente` que herda de `ContaBancaria` e inclui:
     - Atributos extras: `limite_cheque_especial`, `tarifa_mensal`.
-    - Métodos para calcular juros e exibir extrato.
+    - Método para exibir o extrato.
 
-4. Criar a classe `GerenciadorDeArquivos` contendo:
-    - Método para salvar as contas bancárias em um arquivo CSV ou TXT.
-    - Método para carregar as contas bancárias a partir do arquivo.
-    - Método para excluir contas do arquivo.
-
-5. Criar um arquivo principal `main.py` que:
+4. Criar um arquivo principal `main.py` que:
     - Instancia as classes e permite a interação do usuário via menu.
     - Executa operações como abrir conta, depositar, sacar, transferir entre contas e gerar relatórios de transações em um arquivo CSV ou TXT.
 """
