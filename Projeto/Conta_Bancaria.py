@@ -17,7 +17,7 @@ class ContaBancaria:
         self.__saldo = saldo
 
     def getNomeArquivo(self):
-        return f"C:/Users/Alisson Pereira/Desktop/Alisson/Programming/Python/Conta_Bancaria/Dados/Conta_{self.titular}.txt"
+        return f"C:/Users/Alisson Pereira/Desktop/Alisson/Programming/Python/Projeto/Dados/Conta_{self.titular}.txt"
 
     def deposito(self, dinheiro):
         saldoAtual = self.getSaldo()
