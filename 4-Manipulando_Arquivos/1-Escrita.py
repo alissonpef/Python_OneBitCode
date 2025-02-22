@@ -1,9 +1,9 @@
 name = input("Qual seu nome? \n")
 """
 Arquivos:
-1- r - Leitura
-2- w - Escrita
-3- a - Append
+1- r (Leitura)
+2- w (Escrita)
+3- a (Append)
 """
 
 # Alternativa 1

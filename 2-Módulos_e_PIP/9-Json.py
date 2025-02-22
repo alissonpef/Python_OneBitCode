@@ -1,7 +1,7 @@
 import json
 
 # 1 - Strings para Dicionário 
-person = '{"name": "Rodrigo", "languages": ["Python", "Javascript"]}'  # Corrigido para 'languages'
+person = '{"name": "Rodrigo", "languages": ["Python", "Javascript"]}'  
 person_dict = json.loads(person)
 print(person_dict)
 print(person_dict['languages'])

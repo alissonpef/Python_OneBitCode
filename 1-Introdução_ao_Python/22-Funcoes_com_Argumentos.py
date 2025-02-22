@@ -1,4 +1,4 @@
-# 1 - Função para imprimit o nome completo
+# 1 - Função para imprimir o nome completo
 def full_name(fname, lname):
     print(f"{fname}  {lname}")
 

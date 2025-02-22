@@ -2,10 +2,9 @@
 power = lambda num: num**2
 
 # 2 - Função que verifica se o número é par
-
 pair = lambda x: x % 2 == 0
 
-# 1 - Função que divide um número por outro
+# 3 - Função que divide um número por outro
 divNum = lambda x, y: x / y
 
 # 4 - Função que inverte uma string
