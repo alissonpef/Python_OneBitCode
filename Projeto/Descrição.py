@@ -12,7 +12,7 @@ O que vamos utilizar?
     - Dicionários Aninhados: Para organizar informações das contas, como número, saldo e titular.
     - Funções: Para operações como cadastro, edição e exclusão de contas.
     - Classes e Instâncias: Para modelar as contas bancárias e o sistema bancário.
-    - Encapsulamento (getters e setters): Para proteger e manipular atributos sensíveis das contas.
+    - Encapsulamento (getters e setters): Para protege r e manipular atributos sensíveis das contas.
     - Herança: Para diferenciar tipos de conta, como conta corrente e poupança.
     - Polimorfismo: Para personalizar métodos de exibição e operações bancárias.
     - Manipulação de Arquivos (TXT ou CSV): Para salvar e recuperar dados das contas bancárias.
@@ -27,7 +27,7 @@ Especificações do Programa:
 2. Criar a classe `SistemaBancario` contendo:
     - Uma lista de contas bancárias armazenadas como dicionários aninhados.
     - Métodos para adicionar, editar e remover contas bancárias.
-    - Métodos para transferência entre contas, busca de contas pelo número ou titular.
+    - Métodos para busca de contas pelo número.
     - Método para listar todas as contas disponíveis.
 
 3. Criar a classe `ContaCorrente` que herda de `ContaBancaria` e inclui:
@@ -36,5 +36,6 @@ Especificações do Programa:
 
 4. Criar um arquivo principal `main.py` que:
     - Instancia as classes e permite a interação do usuário via menu.
-    - Executa operações como abrir conta, depositar, sacar, transferir entre contas e gerar relatórios de transações em um arquivo CSV ou TXT.
+    - Executa operações como abrir conta, depositar, sacar e gerar relatórios de transações 
+    em um arquivo TXT.
 """

@@ -1,8 +1,0 @@
-Saldo antigo: 100 
-Depósito: 100 
-Saldo Atual: 200
-
-Saldo antigo: 200 
-Retirada: 200 
-Saldo Atual: 0
-
