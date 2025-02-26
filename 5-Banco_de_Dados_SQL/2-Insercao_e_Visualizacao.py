@@ -1,27 +1,4 @@
 """
-Server [localhost]: (pressione Enter, se for local)
-Database [postgres]: Nome do banco de dados
-Port [5432]: (pressione Enter, se for a padrão)
-Username [postgres]: (digite seu usuário, ou pressione Enter se for "postgres")
-Password for user postgres: (digite sua senha e pressione Enter)
-
-CREATE DATABASE first_database;
-DROP DATABASE first_database;
-ALTER RENAME to teste;
-
-ALTER TABLE Clientes ADD COLUMN birthday DATE;
-ALTER TABLE Clientes ALTER COLUMN email SET NOT NULL;
-ALTER TABLE Clientes ALTER COLUMN phone DROP NOT NULL;
-ALTER TABLE Clientes RENAME COLUMN name TO full_name;
-ALTER TABLE Clientes DROP COLUMN birthday;
-
-CREATE TABLE IF NOT EXISTS clientes (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(255) NOT NULL,
-    phone VARCHAR(20) NOT NULL,
-	email VARCHAR(100) UNIQUE
-);
-
 -- Insere um novo cliente na tabela
 INSERT INTO clientes (name, address, phone, created_at) 
 	VALUES ('Isaac', 'Rua A, nº 12', '(11) 99876-5432', '2024-01-31');

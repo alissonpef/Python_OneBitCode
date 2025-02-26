@@ -99,9 +99,14 @@ INSERT INTO series (titulo, diretor, ano, genero, temporadas, episodios, avaliac
 	('Cobra Kai', 'Josh Heald, Jon Hurwitz, Hayden Schlossberg', 2018, 'Action', 6, 50, 8.6, 'Netflix', 'Ongoing');
 
 SELECT * FROM filmes ORDER BY titulo ASC;
-SELECT nome FROM filmes WHERE bilheteria > 500000;
-SELECT id, nome, ano, genero, temporada, episodio, avaliacao, situacao FROM series ORDER BY ASC;
-SELECT * FROM series where situacao > 0;
-SELECT * FROM filmes where lancamento > 2000;
-SELECT titulo, lancamento, genero, avaliacao FROM filmes ORDER BY ASC;
+SELECT * FROM filmes WHERE bilheteria > 5000000;
+SELECT id, titulo, ano, genero, temporadas, episodios, avaliacao, situacao FROM series ORDER BY ano DESC;
+SELECT * FROM series where situacao = 'Ended' ORDER BY avaliacao DESC;
+SELECT * FROM filmes where ano < 2000;
+SELECT titulo, ano, genero, avaliacao FROM filmes ORDER BY avaliacao DESC;
+SELECT
+    AVG(CASE WHEN duracao <= 120 THEN avaliacao ELSE NULL END) AS avg_rating_up_to_2_hours,
+    AVG(CASE WHEN duracao > 120 THEN avaliacao ELSE NULL END) AS avg_rating_over_2_hours
+FROM filmes;
+SELECT id, titulo, ano, avaliacao, (bilheteria - custo) AS lucro FROM filmes ORDER BY lucro DESC;
 """
