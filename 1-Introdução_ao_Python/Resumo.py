@@ -1,4 +1,11 @@
 """
+git init
+git add .
+git commit -m "New commit"
+git push -u origin main
+"""
+ 
+"""
 Input sempre retorna no tipo string
 """
 name = input("Digite seu nome: ")

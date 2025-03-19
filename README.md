@@ -67,7 +67,7 @@ Este repositório reúne materiais e anotações do curso **Python Developer** o
 - **Linguagem:** Python 3.  
 - **Frameworks:** Django, Flask, FastAPI.  
 - **Bibliotecas:** Pandas, Matplotlib, BeautifulSoup, Selenium, Streamlit.  
-- **Banco de Dados:** MongoDB, Postgresql, SQL.  
+- **Banco de Dados:** MongoDB, Postgresql, SQL, NoSQL, MongoDB.  
 - **Ferramentas:** Git, GitHub.  
 - **Automação:** Selenium, APIs, IA.
 
@@ -77,5 +77,3 @@ Este repositório reúne materiais e anotações do curso **Python Developer** o
 Dúvidas ou sugestões? Entre em contato:  
 - **OneBitCode:** [Site Oficial](https://onebitcode.com).  
 - **Autor do Repositório:** [Alisson](mailto:alissonpef@gmail.com).  
-
-Aproveite sua jornada como desenvolvedor Python! 🐍✨
