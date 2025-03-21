@@ -24,7 +24,7 @@ num /= 1  # num = num / 1
 Operadores de string
 """
 game = "The Witcher 3"
-print("The Witcher" in game) # Verfica se a palavra está dentro de uma variavel
+print("The Witcher" in game) # Verifica se a palavra está dentro de uma variavel
 
 print(game[1:]) # Retorna a string a partir da 1 posição
 print(game[:1]) # Retorna a string a até a 1 posição
@@ -379,7 +379,7 @@ class SmartPhone(Phone):
         self.internal_memory =  internal_memory
         self.back_camera = back_camera
     
-    def discount(self): # Polimorfimos - Mesmo nome, coisas diferentes
+    def discount(self): # Polimorfismos - Mesmo nome, coisas diferentes
         return self._price * 0.15
 
 Iphone = SmartPhone("Iphone","16",7000,"4GB","128GB","25MP")
