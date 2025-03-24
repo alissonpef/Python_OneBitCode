@@ -59,7 +59,7 @@ Este repositório reúne materiais e anotações do curso **Python Developer** o
 - **Total de Aulas:** 9  
 - **Duração Total:** 1 hora e 26 minutos  
 - **Descrição:**  
-  - Criação de um Micro SAAS como Projeto Prático  
+  - Criação de um Micro SAAS como Projeto Prático.
 
 ---
 
