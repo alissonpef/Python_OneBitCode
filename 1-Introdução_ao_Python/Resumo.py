@@ -1,7 +1,7 @@
 """
 git init
 git add .
-git commit -m "New commit"
+git commit 
 git push -u origin main
 """
  
