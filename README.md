@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu Perfil! 👋
+# Bem-vindo(a) ao meu Repositório! 👋
 
 Olá! Meu nome é **Alisson** e sou um entusiasta de tecnologia e desenvolvedor em formação. Este espaço é dedicado a documentar minha jornada de aprendizado, especialmente através da **Formação Completa em Python** da **OneBitCode**.
 
