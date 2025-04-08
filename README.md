@@ -1,80 +1,99 @@
-# Formação em Python - OneBitCode
+# Bem-vindo(a) ao meu Perfil! 👋
 
-Este repositório reúne materiais e anotações do curso **Python Developer** oferecido pela **OneBitCode**. A formação é uma imersão completa em Python, abrangendo desde os fundamentos até aplicações avançadas em áreas como **desenvolvimento web**, **análise de dados**, e **automação de processos**.
-
----
-
-## 🎯 **Objetivos da Formação**  
-- **Dominar Python:** Aprender desde os conceitos básicos da linguagem até técnicas avançadas.  
-- **Projetos Práticos:** Desenvolver aplicações reais, como assistentes virtuais, sistemas de visualização de dados e automações.  
-- **Preparação Profissional:** Capacitar o aluno para trabalhar em áreas de alta demanda, como análise de dados, web development e automações.
+Olá! Meu nome é **Alisson** e sou um entusiasta de tecnologia e desenvolvedor em formação. Este espaço é dedicado a documentar minha jornada de aprendizado, especialmente através da **Formação Completa em Python** da **OneBitCode**.
 
 ---
 
-## 📚 **Conteúdo da Formação**  
-### 1. **Fundamentos (Python)**  
-- **Seções:** 8  
-- **Total de Aulas:** 222  
-- **Duração Total:** 33 horas e 10 minutos  
-- **Descrição:**  
-  - Introdução ao Python  
-  - Módulos e PIP  
-  - Programação Orientada a Objetos (POO)  
-  - Manipulação de Arquivos  
-  - Bancos de Dados SQL  
-  - Integração com Git e GitHub  
+## 🚀 Minha Jornada na OneBitCode - Formação Completa em Python
 
-### 2. **Automações (Python)**  
-- **Seções:** 5  
-- **Total de Aulas:** 128  
-- **Duração Total:** 15 horas e 49 minutos  
-- **Descrição:**  
-  - Automação de Tarefas  
-  - Web Scraping e APIs  
-  - Automação com Selenium  
-  - Automação com Aplicações IA  
-  - Criação de Assistentes Virtuais  
+Estou trilhando o caminho da Formação Completa em Python da OneBitCode. Abaixo está a estrutura e os principais tópicos que estou explorando ou já concluí:
 
-### 3. **Análise de Dados (Python)**  
-- **Seções:** 4  
-- **Total de Aulas:** 80  
-- **Duração Total:** 7 horas e 30 minutos  
-- **Descrição:**  
-  - MongoDB  
-  - Manipulação de Dados com Pandas  
-  - Visualização de Dados  
-  - Aplicações com Streamlit  
+### 1. Fundamentos (Python)
 
-### 4. **Web (Python)**  
-- **Seções:** 3  
-- **Total de Aulas:** 98  
-- **Duração Total:** 10 horas e 49 minutos  
-- **Descrição:**  
-  - Fundamentos do Flask  
-  - Fundamentos do FastAPI  
-  - Fundamentos do Django
+- **Link da Seção:** [Fundamentos](https://comunidade.onebitcode.com/c/formacao-completa/)
+- **Principais Tópicos:**
+  - Introdução ao Python
+  - Módulos e PIP
+  - Programação Orientada a Objetos (POO)
+  - Manipulando Arquivos
+  - Banco de Dados SQL com Python
+  - Integração com Banco de Dados
+  - Git e GitHub
 
-### 5. **Projetos (Python)**  
-- **Seções:** 1  
-- **Total de Aulas:** 9  
-- **Duração Total:** 1 hora e 26 minutos  
-- **Descrição:**  
-  - Criação de um Micro SAAS como Projeto Prático.
+### 2. Automações com Python
 
----
+- **Link da Seção:** [Automações](https://comunidade.onebitcode.com/c/curso-automacoes-com-python/)
+- **Principais Tópicos:**
+  - Automação de Tarefas
+  - Web Scraping e API
+  - Automação com Selenium
+  - Automação com Aplicações IA
+  - Assistente Virtual
 
-## 🛠️ **Tecnologias Utilizadas**  
-- **Linguagem:** Python 3.  
-- **Frameworks:** Django, Flask, FastAPI.  
-- **Bibliotecas:** Pandas, Matplotlib, BeautifulSoup, Selenium, Streamlit.  
-- **Banco de Dados:** MongoDB, Postgresql, SQL, NoSQL, MongoDB.  
-- **Ferramentas:** Git, GitHub.  
-- **Automação:** Selenium, APIs, IA.
+### 3. Desenvolvimento Web com Python
+
+- **Link da Seção:** [Web](https://comunidade.onebitcode.com/c/curso-python-web/)
+- **Principais Tópicos:**
+  - Flask Fundamentos
+  - FastAPI Fundamentos
+  - Django Fundamentos
+
+### 4. Análise de Dados com Python
+
+- **Link da Seção:** [Análise de Dados](https://comunidade.onebitcode.com/c/curso-analise-de-dados-com-python/)
+- **Principais Tópicos:**
+  - Análise de dados I - MongoDB
+  - Manipulação de dados PANDAS
+  - Visualização de Dados
+  - Streamlit Fundamentos
+
+### 5. Projetos (Python)
+
+- **Link da Seção:** [Projetos](https://comunidade.onebitcode.com/c/projetos-60f6fd/)
+- **Principais Projetos:**
+  - Micro SAAS
 
 ---
 
-## 📫 **Contato**  
-Dúvidas ou sugestões? Entre em contato:  
-- **OneBitCode:** [Site Oficial](https://onebitcode.com).  
-- **Autor do Repositório:** [Alisson](mailto:alissonpef@gmail.com).  
+## 🛠️ Tecnologias e Ferramentas (Foco em Python)
 
+Tecnologias que estou aprendendo e utilizando ao longo do curso:
+
+**Linguagem Principal:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Desenvolvimento Web:**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Automação & Scraping:**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+<!-- Adicionar outras se aprender (ex: BeautifulSoup, Scrapy, Playwright) -->
+
+**Análise de Dados & Banco de Dados:**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) <!-- Comum em análise de dados -->
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<!-- Adicionar outras (ex: Matplotlib, Seaborn, Scikit-learn) -->
+
+**Ferramentas Gerais:**
+
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📫 Como me encontrar:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alisson-pereira-ferreira-45022623b/])
+- [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonpef@gmail.com)
