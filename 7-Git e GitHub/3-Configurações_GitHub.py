@@ -13,8 +13,7 @@
    git remote add origin https://github.com/usuario/repositorio.git
 
 3.1 Para remover:
-   git remote remove origin   
-
+   git remote remove origin
 
 4. Baixe as alterações remotas, se houver (para evitar conflitos):
    git pull origin main --rebase
@@ -24,7 +23,7 @@
 
 6. Altere o nome da branch principal para main:
    git branch -m master main
-   
+
 ----------------------------------------------------------------------------------------------------------------------------
 *Fazendo o Primeiro Commit
 
