@@ -1,99 +1,70 @@
 # Bem-vindo(a) ao meu Repositório! 👋
 
-Olá! Meu nome é **Alisson** e sou um entusiasta de tecnologia e desenvolvedor em formação. Este espaço é dedicado a documentar minha jornada de aprendizado, especialmente através da **Formação Completa em Python** da **OneBitCode**.
+Olá! Meu nome é **Alisson** e sou um desenvolvedor em formação, e este repositório documenta meu aprendizado e progresso nos estudos de **Formação em Python** da [OneBitCode](https://onebitcode.com/).
+
+Aqui, você vai encontrar minhas anotações, os códigos dos exercícios e os projetos que estou construindo. Sinta-se à vontade para navegar, dar uma espiada nos códigos e acompanhar minha evolução! 🚀
 
 ---
 
-## 🚀 Minha Jornada na OneBitCode - Formação Completa em Python
+## 📚 Minha Trilha de Aprendizado na Formação Python
 
-Estou trilhando o caminho da Formação Completa em Python da OneBitCode. Abaixo está a estrutura e os principais tópicos que estou explorando ou já concluí:
+Meu foco principal aqui é solidificar os **Fundamentos** da linguagem Python, conforme proposto pela formação, mas também explorando alguns tópicos complementares:
 
-### 1. Fundamentos (Python)
-
-- **Link da Seção:** [Fundamentos](https://comunidade.onebitcode.com/c/formacao-completa/)
-- **Principais Tópicos:**
-  - Introdução ao Python
-  - Módulos e PIP
-  - Programação Orientada a Objetos (POO)
-  - Manipulando Arquivos
-  - Banco de Dados SQL com Python
-  - Integração com Banco de Dados
-  - Git e GitHub
-
-### 2. Automações com Python
-
-- **Link da Seção:** [Automações](https://comunidade.onebitcode.com/c/curso-automacoes-com-python/)
-- **Principais Tópicos:**
-  - Automação de Tarefas
-  - Web Scraping e API
-  - Automação com Selenium
-  - Automação com Aplicações IA
-  - Assistente Virtual
-
-### 3. Desenvolvimento Web com Python
-
-- **Link da Seção:** [Web](https://comunidade.onebitcode.com/c/curso-python-web/)
-- **Principais Tópicos:**
-  - Flask Fundamentos
-  - FastAPI Fundamentos
-  - Django Fundamentos
-
-### 4. Análise de Dados com Python
-
-- **Link da Seção:** [Análise de Dados](https://comunidade.onebitcode.com/c/curso-analise-de-dados-com-python/)
-- **Principais Tópicos:**
-  - Análise de dados I - MongoDB
-  - Manipulação de dados PANDAS
-  - Visualização de Dados
-  - Streamlit Fundamentos
-
-### 5. Projetos (Python)
-
-- **Link da Seção:** [Projetos](https://comunidade.onebitcode.com/c/projetos-60f6fd/)
-- **Principais Projetos:**
-  - Micro SAAS
+- 🐍 **Python I - Introdução ao Python:**
+  Conceitos básicos da linguagem, tipos de dados (strings, listas, tuplas, sets, dicionários), operadores, estruturas condicionais e de repetição, além da criação e uso de funções.
+- 🧩 **Python II – Módulos e PIP:**
+  Uso e criação de módulos, exploração de módulos built-in essenciais (como OS, Math, JSON), gerenciador de pacotes PIP, ambientes virtuais e introdução a bibliotecas externas e interfaces gráficas com Tkinter.
+- 🏗️ **Python III - POO (Programação Orientada a Objetos):**
+  Princípios da Programação Orientada a Objetos, aprendendo sobre classes, objetos, encapsulamento, herança, polimorfismo e decorators.
+- 📂 **Python IV - Manipulando Arquivos:**
+  Leitura e escrita de diferentes tipos de arquivos (TXT, CSV), manipulação de dados, compactação de arquivos (Zip) e projetos práticos como a geração de PDFs.
+- 📊 **Banco de Dados SQL PY:**
+  Fundamentos de bancos de dados relacionais e da linguagem SQL, incluindo modelagem de dados, consultas e operações essenciais.
+- 💾 **Python V - Integração com Banco de Dados:**
+  Interação do Python com bancos de dados, aplicando conceitos de SQL e trabalhando com bancos relacionais como SQLite e PostgreSQL, além de uma introdução a bancos NoSQL com MongoDB.
+- 🌿 **Git e GitHub:**
+  Aprendizado sobre controle de versão com Git e colaboração usando GitHub, ferramentas essenciais para o desenvolvimento de software moderno.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas (Foco em Python)
+## 🐳 Estudos Complementares
 
-Tecnologias que estou aprendendo e utilizando ao longo do curso:
+Além do módulo de Fundamentos, também me dediquei aos seguintes tópicos para expandir meus conhecimentos:
+
+-   📦 **Docker:**
+    Aprendi os conceitos básicos de containerização com Docker, focando em como criar, gerenciar e distribuir aplicações de forma isolada, padronizada e eficiente.
+-   💡 **Micro SaaS:**
+    Obtive uma introdução aos conceitos e ao desenvolvimento de um Micro SaaS (Software as a Service) de pequena escala, aplicando os conhecimentos adquiridos em Python para criar uma solução funcional.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 **Linguagem Principal:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Desenvolvimento Web:**
+**Banco de Dados:**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Automação & Scraping:**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-<!-- Adicionar outras se aprender (ex: BeautifulSoup, Scrapy, Playwright) -->
-
-**Análise de Dados & Banco de Dados:**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) <!-- Comum em análise de dados -->
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Adicionar outras (ex: Matplotlib, Seaborn, Scikit-learn) -->
+**Containerização:**
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Ferramentas Gerais:**
 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PIP](https://img.shields.io/badge/PIP-3B76A7?style=for-the-badge&logo=python&logoColor=yellow)
 
 ---
 
 ## 📫 Como me encontrar:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-pereira-ferreira-45022623b/)
-- [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonpef@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-pereira-ferreira-45022623b/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonpef@gmail.com)
