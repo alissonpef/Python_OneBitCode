@@ -6,35 +6,24 @@ Aqui, você vai encontrar minhas anotações, os códigos dos exercícios e os p
 
 ---
 
-## 📚 Minha Trilha de Aprendizado na Formação Python
+## 📚 Módulos da Formação
 
-Meu foco principal aqui é solidificar os **Fundamentos** da linguagem Python, conforme proposto pela formação, mas também explorando alguns tópicos complementares:
+Este repositório está organizado de acordo com os módulos da formação, cobrindo desde os conceitos básicos de Python até tópicos mais avançados.
 
 - 🐍 **Python I - Introdução ao Python:**
-  Conceitos básicos da linguagem, tipos de dados (strings, listas, tuplas, sets, dicionários), operadores, estruturas condicionais e de repetição, além da criação e uso de funções.
+  Fundamentos da linguagem, tipos de dados (strings, listas, tuplas, sets, dicionários), operadores, laços de repetição e funções.
 - 🧩 **Python II – Módulos e PIP:**
-  Uso e criação de módulos, exploração de módulos built-in essenciais (como OS, Math, JSON), gerenciador de pacotes PIP, ambientes virtuais e introdução a bibliotecas externas e interfaces gráficas com Tkinter.
+  Criação e uso de módulos, ambientes virtuais e gerenciamento de pacotes com PIP, além de uma introdução a bibliotecas como Tkinter.
 - 🏗️ **Python III - POO (Programação Orientada a Objetos):**
-  Princípios da Programação Orientada a Objetos, aprendendo sobre classes, objetos, encapsulamento, herança, polimorfismo e decorators.
+  Princípios da Programação Orientada a Objetos, incluindo classes, objetos, encapsulamento, herança, polimorfismo e decorators.
 - 📂 **Python IV - Manipulando Arquivos:**
-  Leitura e escrita de diferentes tipos de arquivos (TXT, CSV), manipulação de dados, compactação de arquivos (Zip) e projetos práticos como a geração de PDFs.
-- 📊 **Banco de Dados SQL PY:**
-  Fundamentos de bancos de dados relacionais e da linguagem SQL, incluindo modelagem de dados, consultas e operações essenciais.
+  Leitura e escrita de diferentes tipos de arquivos (TXT, CSV), manipulação de dados e projetos práticos como a geração de PDFs.
+- 📊 **Banco de Dados com SQL:**
+  Fundamentos de bancos de dados relacionais, modelagem de dados e consultas com a linguagem SQL.
 - 💾 **Python V - Integração com Banco de Dados:**
-  Interação do Python com bancos de dados, aplicando conceitos de SQL e trabalhando com bancos relacionais como SQLite e PostgreSQL, além de uma introdução a bancos NoSQL com MongoDB.
+  Interação do Python com bancos de dados relacionais como SQLite e PostgreSQL, e NoSQL com MongoDB.
 - 🌿 **Git e GitHub:**
-  Aprendizado sobre controle de versão com Git e colaboração usando GitHub, ferramentas essenciais para o desenvolvimento de software moderno.
-
----
-
-## 🐳 Estudos Complementares
-
-Além do módulo de Fundamentos, também me dediquei aos seguintes tópicos para expandir meus conhecimentos:
-
--   📦 **Docker:**
-    Aprendi os conceitos básicos de containerização com Docker, focando em como criar, gerenciar e distribuir aplicações de forma isolada, padronizada e eficiente.
--   💡 **Micro SaaS:**
-    Obtive uma introdução aos conceitos e ao desenvolvimento de um Micro SaaS (Software as a Service) de pequena escala, aplicando os conhecimentos adquiridos em Python para criar uma solução funcional.
+  Controle de versão com Git e colaboração usando GitHub.
 
 ---
 
@@ -50,10 +39,6 @@ Além do módulo de Fundamentos, também me dediquei aos seguintes tópicos para
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Containerização:**
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Ferramentas Gerais:**
 
